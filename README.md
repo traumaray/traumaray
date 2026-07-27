@@ -24,11 +24,11 @@
     │       └── Windows 11
     │
     └── languages
-        └── C#
-        └── SQL
-        └── HTML
-        └── CSS
-        └── PHP
+        └── c#
+        └── sql
+        └── html
+        └── css
+        └── php
         
   </tr>
 </table>
